@@ -1,7 +1,7 @@
 {
 "onlysub": "4800G",
 "bansub": "测试",
-"a_version": "0.020---0.010",
-"u_version": "0.020",
-"dlink": "https://ghproxy.com/https://github.com/cloudscross/cloudscrossproxy/releases/download/0.020/CloudsCross.Proxy.exe"
+"a_version": "0.021---0.020---0.010",
+"u_version": "0.021",
+"dlink": "https://ghproxy.com/https://github.com/cloudscross/cloudscrossproxy/releases/download/0.021/CloudsCross.Proxy.exe"
 }
