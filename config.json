@@ -9,7 +9,8 @@
 "a_version": "1.101---0.036",
 "u_version": "0.036",
 "dlink": "https://github.cloudscross.workers.dev/https://github.com/cloudscross/cloudscrossproxy/releases/latest/download/CloudsCross.Proxy.zip",
-"geosite_URL": "https://github.cloudscross.workers.dev/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-"geoip_URL": "https://github.cloudscross.workers.dev/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat",
+"geosite_URL": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
+"geoip_URL": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat",
+"github_goo": "https://github.cloudscross.workers.dev/",
 "luck": "CLOUDSCROSSPROXY20OFF"
 }
