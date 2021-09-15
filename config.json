@@ -8,6 +8,8 @@
 	"host_api": "cloudscross.xyz",
 	"host_sub": "cloudscross.com---cloudscross.unmixed.buzz---cloudscross.xyz",
 	"host_sub_hide": "cloudscross.xyz",
+	"tg_link_g": "https://t.me/cloudscross",
+	"tg_link_c": "https://t.me/cloudscross_network",
 	"a_version": "1.6.0---1.5.9",
 	"u_version": "1.5.9",
 	"dlink": "https://ghproxy.com/https://github.com/cloudscross/cloudscrossproxy/releases/latest/download/CloudsCross.Proxy.zip",
